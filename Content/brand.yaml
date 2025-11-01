@@ -1,0 +1,77 @@
+# ===============================
+# Brand Metadata
+# ===============================
+name: "Baskaran Appalam"
+owner: "Ram Traders, Madurai"
+tagline: "Authentic South Indian appalams made with traditional recipes and finest ingredients."
+since: "1985"
+
+# ===============================
+# Compliance
+# ===============================
+fssai: "12418012002462"   # update if needed
+gstin: ""                 # add if available
+certifications:
+  - "FSSAI Certified"
+  - "ISO Standards"
+  - "Traditional Methods"
+
+# ===============================
+# Contact Info
+# ===============================
+address: |
+  Ram Traders
+  1485, T.N.H.B Colony, Villapuram
+  Madurai, Tamil Nadu 625012
+  India
+
+phone:
+  primary: "+91 98430 67247"
+  secondary: "+91 98433 84940"
+whatsapp: "+91 98430 67247"
+email: "info@baskaranappalam.com"
+
+hours:
+  weekdays: "Monday – Saturday: 9:00 AM – 7:00 PM"
+  sunday: "10:00 AM – 5:00 PM"
+  holidays: "By Appointment"
+
+# ===============================
+# Social Media
+# ===============================
+social:
+  instagram: ""
+  facebook: ""
+  twitter: ""
+
+# ===============================
+# Visual Identity
+# ===============================
+palette:
+  ink: "#2D2A26"
+  accent: "#8E5528"
+  bg: "#FAF7F2"
+  whatsapp: "#198754"
+
+logo: "assets/img/brand/logo.png"
+favicon: "assets/img/brand/favicon.ico"
+
+# ===============================
+# Products (basic catalog)
+# ===============================
+products:
+  - id: "appalam-100"
+    name: "Baskaran Appalam — 100g"
+    desc: "Crisp, traditional appalams made with urad flour. Perfect accompaniment to meals."
+    image: "assets/img/products/appalam-100.webp"
+    whatsappText: "Order Baskaran Appalam 100g x1"
+  - id: "appalam-200"
+    name: "Baskaran Appalam — 200g"
+    desc: "Family pack with the same authentic taste."
+    image: "assets/img/products/appalam-200.webp"
+    whatsappText: "Order Baskaran Appalam 200g x1"
+  - id: "bulk-orders"
+    name: "Bulk Orders"
+    desc: "Wholesale quantities available for restaurants and retailers."
+    image: "assets/img/products/bulk-orders.webp"
+    whatsappText: "Enquiry for Bulk Orders — Baskaran Appalam"
